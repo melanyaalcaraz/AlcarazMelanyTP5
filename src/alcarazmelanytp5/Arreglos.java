@@ -48,7 +48,7 @@ public class Arreglos {
                 caracter++;
             }
         }
-        System.out.println("La cantidad de vocales es de: " + caracter);
+       System.out.println("La cantidad de veces que se repite el caracter es de: " + caracter);
 
     }
 
